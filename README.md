@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Dystinction**
 
-- 🌱 I’m currently learning **Bootstrap and PyTorch**
+- 🌱 I’m currently learning **MongoDB and Node JS**
 
-- 👯 I’m looking to collaborate on **PULSE 2023 Website**
+- 👯 I’m looking to collaborate on **Engineering EXPO Website 2023**
 
 - 👨‍💻 All of my projects are available at [github.com/neilteje](github.com/neilteje)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **neilteje@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1InDipAX_zEcaM576DpOd-HbXI-rvYpN2/view?usp=sharing](https://drive.google.com/file/d/1InDipAX_zEcaM576DpOd-HbXI-rvYpN2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kGR8EI0FNUTASPcXcB6_cOh0Vo0oTcg4/view?usp=sharing](https://drive.google.com/file/d/1kGR8EI0FNUTASPcXcB6_cOh0Vo0oTcg4/view?usp=sharing)
 
 - ⚡ Fun fact **I can speak 5 languages!**
 
