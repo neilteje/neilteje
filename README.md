@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **neilteje@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kGR8EI0FNUTASPcXcB6_cOh0Vo0oTcg4/view?usp=sharing](https://drive.google.com/file/d/1kGR8EI0FNUTASPcXcB6_cOh0Vo0oTcg4/view?usp=sharing)
-
 - ⚡ Fun fact **I can speak 5 languages!**
 
 <h3 align="left">Connect with me:</h3>
