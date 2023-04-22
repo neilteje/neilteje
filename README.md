@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Teje!</h1>
 <h3 align="center">A passionate developer and curious learner from The United States!</h3>
 
-- 🔭 I’m currently working on **Dystinction**
-
-- 🌱 I’m currently learning **MongoDB and Node JS**
-
-- 👯 I’m looking to collaborate on **Engineering EXPO Website 2023**
+- 🔭 I’m currently working on **Dystinction (a startup!)**
 
 - 👨‍💻 All of my projects are available at [github.com/neilteje](github.com/neilteje)
 
