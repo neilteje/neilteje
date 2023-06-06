@@ -1,18 +1,15 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hello there 👋
 
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Neil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Neil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Neil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+#### A computer engineering student and software engineer by day ☼ and a Mario Kart geek by night ☾
 
-### I am Neil Teje
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+Software Engineering Intern at [Forcepoint](https://www.forcepoint.com/);<br>
+Undergraduate Research Scholar at [IBM](https://discoveryacceleratorinstitute.grainger.illinois.edu/);<br>
+Prev. Software Engineer with [AMD](https://www.amd.com/en.html) at [Disruption Lab](https://www.uiucdisruptionlab.org/);<br>
+
+<!--
+- 🌍 Student at the **University of Illinois Urbana-Champaign** pursuing a Bachelors of Science in Computer Engineering and Applied Statistics
+- 💅 Designed: @dystinction, [pulse.ece.illinois.edu](https://pulse.ece.illinois.edu/), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **web development**, **machine learning**, **design thinking**, **healthcare technologies**, **product management**
+- 📫 Reach me: [linkedin.com/neilteje](https://www.linkedin.com/in/neilteje/)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
