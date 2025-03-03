@@ -2,7 +2,8 @@
 
 #### A computer engineering student and software engineer by day ☼ and a Mario Kart geek by night ☾
 
-Deep Learning Inference Intern at [NVIDIA](https://docs.nvidia.com/tensorrt/index.html);<br>
+Machine Learning Engineer Intern at [Rivian](https://rivian.com/our-company);<br>
+Prev. Deep Learning Inference Intern at [NVIDIA](https://docs.nvidia.com/tensorrt/index.html);<br>
 Prev. Autopilot Engineer Intern at [Tesla](https://tesla.com/ai);<br>
 Prev. Undergraduate Research Scholar at [IBM](https://discoveryacceleratorinstitute.grainger.illinois.edu/);<br>
 Prev. Software Engineering Intern at [Forcepoint](https://www.forcepoint.com/);<br>
