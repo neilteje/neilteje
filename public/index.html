@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe - Multiplayer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cream Soda Games</h1>
+            <p class="subtitle">for eshana and neil</p>
+        </header>
+
+        <div id="status" class="status-message">
+            <p>Connecting to server...</p>
+        </div>
+
+        <div id="inviteSection" class="invite-section" style="display: none;">
+            <button id="inviteBtn" class="btn btn-invite">
+                📧 Invite Player
+            </button>
+            <p class="invite-hint">Send a notification to get sleepy neil to join!</p>
+        </div>
+
+        <div id="gameSelection" class="game-selection" style="display: none;">
+            <h2>Choose a Game</h2>
+            <p id="selectionHint" class="selection-hint">Select a game to play:</p>
+            <div class="game-options">
+                <button class="game-option" data-game="tictactoe">
+                    <div class="game-icon">❌⭕</div>
+                    <h3>Tic Tac Toe</h3>
+                </button>
+                <button class="game-option" data-game="connect4">
+                    <div class="game-icon">🔴🟡</div>
+                    <h3>Connect 4</h3>
+                </button>
+            </div>
+        </div>
+
+        <div id="gameInfo" class="game-info" style="display: none;">
+            <div class="player-info">
+                <div class="player-badge" id="playerBadge">
+                    <span id="playerSymbol">-</span>
+                </div>
+                <p>You are: <strong id="playerSymbolText">-</strong></p>
+            </div>
+            <div class="turn-indicator">
+                <p id="turnText">Waiting...</p>
+            </div>
+        </div>
+
+        <div id="gameBoard" class="game-board" style="display: none;"></div>
+        
+        <div id="connect4Columns" class="connect4-columns" style="display: none;">
+            <button class="column-btn" data-column="0">1</button>
+            <button class="column-btn" data-column="1">2</button>
+            <button class="column-btn" data-column="2">3</button>
+            <button class="column-btn" data-column="3">4</button>
+            <button class="column-btn" data-column="4">5</button>
+            <button class="column-btn" data-column="5">6</button>
+            <button class="column-btn" data-column="6">7</button>
+        </div>
+
+        <div id="gameOver" class="game-over" style="display: none;">
+            <h2 id="gameOverMessage"></h2>
+            <div class="game-over-buttons">
+                <button id="rematchBtn" class="btn btn-primary">Play Again</button>
+                <button id="backToSelectionBtn" class="btn btn-secondary">Choose Different Game</button>
+            </div>
+        </div>
+
+        <div id="error" class="error-message" style="display: none;">
+            <p id="errorText"></p>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+</body>
+</html>
+
